@@ -1,0 +1,411 @@
+class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/construct-2-membuat-game-mobile-tanpa-coding/">Construct 2 Membuat Game Mobile Tanpa Coding</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(88)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.140,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.90,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/desain-themes-toko-online-dengan-html-dan-css/">
+<!-- Img  -->
+<img alt="" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer-300x268.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer-300x268.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer.jpg 370w" decoding="async" height="268" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="268" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer-300x268.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer-300x268.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/02/DESAIN_THEMES_TOKO_ONLINE_DENGAN_HTML_DAN_CSS___Ebooks_jquer.jpg 370w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  
+ data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top 
+rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/desain-themes-toko-online-dengan-html-dan-css/">Desain Themes Toko Online Dengan HTML Dan CSS</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(90)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.130,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.80,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/ebook-android-studio-jago-desain/">
+<!-- Img  -->
+<img alt="Ebook Android Studio Jago Desain" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-300x300.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-150x150.jpg 150w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-600x597.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan.jpg 700w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="Ebook Android Studio Jago Desain" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-300x300.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-150x150.jpg 150w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-600x597.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2019/06/DVD-Ebook-Android-Studio-Membuat-desain-Tampilan.jpg 700w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img 
+  data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" 
+class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/ebook-android-studio-jago-desain/">DVD Ebook Android Studio : 5 Hari Jago Desain UI UX Keren Aplikasi Android</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(148)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.105,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.55,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-kursus-membuat-flat-animation/">
+<!-- Img  -->
+<img alt="DVD Kursus Membuat Flat Animation" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-300x197.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-300x197.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-600x394.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation.jpg 750w" decoding="async" height="197" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Kursus Membuat Flat Animation" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="197" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-300x197.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-300x197.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation-600x394.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2017/01/DVD_Kursus_Membuat_Flat_Animation.jpg 750w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-kursus-membuat-flat-animation/">DVD Kursus Membuat Flat Animation</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(66)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.165,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.115,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-membuat-aplikasi-mobile-pemesanan-tiket-dengan-android-studio/">
+<!-- Img  -->
+<img alt="Tutorial Membuat Aplikasi Mobile Pemesanan Tiket Dengan Android Studio" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-300x300.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-150x150.jpg 150w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-600x598.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio.jpg 700w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="Tutorial Membuat Aplikasi Mobile Pemesanan Tiket Dengan Android Studio" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-300x300.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-150x150.jpg 150w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-600x598.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2019/04/Tutorial-Membuat-Aplikasi-Mobile-Pemesanan-Tiket-Dengan-Android-Studio.jpg 700w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" 
+src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-membuat-aplikasi-mobile-pemesanan-tiket-dengan-android-studio/">DVD Membuat Aplikasi Mobile Pemesanan Tiket Dengan Android Studio</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(130)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.400,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.350,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-membuat-toko-online-responsive-dengan-php-dan-bootstrap/">
+<!-- Img  -->
+<img alt="DVD Membuat Toko Online Responsive Dengan PHP Dan Bootstrap" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-300x300.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-150x150.jpg 150w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Membuat Toko Online Responsive Dengan PHP Dan Bootstrap" class="card-img-top rounded-top-3 post-sampul h-100 
+wp-post-image" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-300x300.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-300x300.jpg 300w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-100x100.jpg 100w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots.jpg 600w, https://www.malasngoding.com/wp-content/uploads/2017/01/Tutorial_Membuat_Toko_Online_Responsive_Dengan_PHP_Dan_Boots-150x150.jpg 150w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" 
+src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-membuat-toko-online-responsive-dengan-php-dan-bootstrap/">DVD Membuat Toko Online Responsive Dengan PHP Dan Bootstrap</a> 
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(118)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.175,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.125,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-seminggu-menguasai-php-dan-mysql-untuk-pemula/">     
+<!-- Img  -->
+<img alt="DVD Seminggu Menguasai PHP dan MySQL Untuk Pemula" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 226px) 100vw, 226px" data-src="https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula-226x300.jpg" data-srcset="https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula-226x300.jpg 226w, https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula.jpg 277w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="226"><noscript><img alt="DVD Seminggu Menguasai PHP dan MySQL Untuk Pemula" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="300" sizes="(max-width: 226px) 100vw, 226px" src="https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula-226x300.jpg" srcset="https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula-226x300.jpg 226w, https://www.malasngoding.com/wp-content/uploads/2016/04/DVD-Seminggu-Menguasai-PHP-dan-MySQL-Untuk-Pemula.jpg 277w" width="226"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" 
+src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-seminggu-menguasai-php-dan-mysql-untuk-pemula/">DVD Seminggu Menguasai PHP dan MySQL Untuk Pemula</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(98)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.130,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.80,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-tutorial-24-jam-mahir-codeigniter-dengan-studi-kasus-aplikasi-inventory/">
+<!-- Img  -->
+<img alt="DVD Tutorial 24 Jam Mahir Codeigniter Dengan Studi Kasus Aplikasi Inventory" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-300x300.png" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-300x300.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-100x100.png 100w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-150x150.png 150w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi.png 570w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Tutorial 24 Jam Mahir Codeigniter Dengan Studi Kasus Aplikasi Inventory" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-300x300.png" srcset="https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-300x300.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-100x100.png 100w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi-150x150.png 150w, https://www.malasngoding.com/wp-content/uploads/2017/08/24-jam-menguasai-codeigniter-fahmi.png 570w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   
+data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-tutorial-24-jam-mahir-codeigniter-dengan-studi-kasus-aplikasi-inventory/">DVD Tutorial 24 Jam Mahir Codeigniter Dengan Studi Kasus Aplikasi Inventory</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(150)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.160,500,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.110,500,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-tutorial-24-jam-menguasai-framework-codeigniter/">   
+<!-- Img  -->
+<img alt="DVD Tutorial 24 Jam Menguasai Framework Codeigniter" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/07/1-300x272.png" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/07/1-300x272.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/07/1.png 575w" decoding="async" height="272" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Tutorial 24 Jam Menguasai Framework Codeigniter" 
+class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="272" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/07/1-300x272.png" srcset="https://www.malasngoding.com/wp-content/uploads/2017/07/1-300x272.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/07/1.png 575w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  
+ data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top 
+rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-tutorial-24-jam-menguasai-framework-codeigniter/">DVD Tutorial 24 Jam Menguasai Framework Codeigniter</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(102)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.160,500,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.110,500,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-tutorial-adobe-xd-membuat-desain-aplikasi-mobile-e-commerce/">
+<!-- Img  -->
+<img alt="DVD Tutorial Adobe XD - Membuat Desain Aplikasi Mobile E-Commerce" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-300x300.png" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-300x300.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-100x100.png 100w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-150x150.png 150w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2.png 548w" decoding="async" height="300" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Tutorial Adobe XD - Membuat Desain Aplikasi Mobile E-Commerce" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-300x300.png" srcset="https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-300x300.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-100x100.png 100w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2-150x150.png 150w, https://www.malasngoding.com/wp-content/uploads/2017/05/Screenshot_2.png 548w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->   
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-tutorial-adobe-xd-membuat-desain-aplikasi-mobile-e-commerce/">DVD Tutorial Adobe XD – Membuat Desain Aplikasi Mobile E-Commerce</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(142)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.150,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.100,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-tutorial-analisa-dan-development-website-e-commerce/">
+<!-- Img  -->
+<img alt="dvd tutorial analisa dan development website ecommerce" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-300x175.png" data-srcset="https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-300x175.png 300w, https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-600x350.png 600w, https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce.png 700w" decoding="async" height="175" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+width="300"><noscript><img alt="dvd tutorial analisa dan development website ecommerce" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="175" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-300x175.png" srcset="https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-300x175.png 300w, https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce-600x350.png 600w, https://www.malasngoding.com/wp-content/uploads/2016/03/dvd-tutorial-analisa-dan-development-website-ecommerce.png 700w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" 
+src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-tutorial-analisa-dan-development-website-e-commerce/">DVD Tutorial Analisa Dan Development Website E-Commerce</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(110)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.185,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.135,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3">
+<div class="post card card-post card-product mb-4 rounded-3">
+<div class="card-product-image">
+<a href="https://www.malasngoding.com/product/dvd-tutorial-android-studio-php-mysql/">
+<!-- Img  -->
+<img alt="DVD Tutorial Android Studio PHP MySQL" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image lazyload" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3-300x295.png" data-srcset="https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3-300x295.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3.png 600w" decoding="async" height="295" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300"><noscript><img alt="DVD Tutorial Android Studio PHP MySQL" class="card-img-top rounded-top-3 post-sampul h-100 wp-post-image" decoding="async" height="295" sizes="(max-width: 300px) 100vw, 300px" src="https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3-300x295.png" srcset="https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3-300x295.png 300w, https://www.malasngoding.com/wp-content/uploads/2017/10/Screenshot_3.png 600w" width="300"/></noscript> <!-- <img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  
+ data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top 
+rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://geeksui.codescandy.com/geeks/assets/images/blog/blogpost-4.jpg" class="card-img-top rounded-top-md"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript> -->
+</img></a>
+</div>
+<!-- Card body -->
+<div class="card-body">
+<article class="">
+<h2 class="post-title fs-5 entry-title">
+<a class="text-inherit line-clamp-2" href="https://www.malasngoding.com/product/dvd-tutorial-android-studio-php-mysql/">DVD Tutorial Android Studio PHP MySQL</a>
+</h2>
+<span class="small">
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<i class="small text-warning bi bi-star-fill"></i>
+<span class="small">(74)</span>
+</span>
+</article>
+</div>
+<div class="card-footer border-light bg-white rounded-bottom-3">
+<!--<div>-->
+<!--    <span class="fw-bold text-danger small text-decoration-line-through">Rp.168,000,-</span>-->    
+<!--</div>-->
+<div>
+<span class="fw-bold text-dark">Rp.118,000,-</span>
+</div>
+</div>
+</div>
+</div>, <div class="col-lg-3 col-md-4 col-8">
+<div class="p-3">
+<img alt="Download ebook belajar HTML &amp; CSS dasar untuk pemula gratis" class="card-img-top lazyload" data-src="https://www.malasngoding.com/wp-content/uploads/2020/06/ebook-html-dan-css-dasar.png" height="258" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="258"/><noscript><img alt="Download ebook belajar HTML &amp; CSS dasar untuk pemula gratis" class="card-img-top" height="258" src="https://www.malasngoding.com/wp-content/uploads/2020/06/ebook-html-dan-css-dasar.png" width="258"/></noscript>
+</div>
